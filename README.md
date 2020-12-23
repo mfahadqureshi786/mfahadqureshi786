@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 So I’m looking to connect with fellow blockchain developers!.
 
 Interests={
-          Love my own made Tea 🍵, 
+          Love my own made Tea! 🍵, 
           Love Coding 🤖,
          Thought provoking Discussions🦜
           }
