@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   You just found my repository ✨
-- 🔭 I’m currently working on ❄️ Ethereum Blockchain !
-- 👯 So I’m looking to connect with fellow blockchain developers!.
+- 🌱 I’m currently learning React.
 
 Interests={
           Love my own made Tea! 🍵, 
           Love Coding 🤖,
-         Thought provoking Discussions🦜
+          Thought provoking Discussions🦜
           }
           
-You will find me active on linkedin and github.
+You will find me active on linkedin.
 Feel free to fork any repo you like, I make all my repo public.
 
