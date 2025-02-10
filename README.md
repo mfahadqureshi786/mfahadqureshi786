@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   You just found my repository ✨
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Go.
 
 Interests={
           Love my own made Tea! 🍵, 
